@@ -17,12 +17,7 @@
 
 ---
 
-<details>
-  star From sridhar02
-
   <img align="left" alt="ravi GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ravikrishnudu&show_icons=true&hide_border=true" />
-
-</details>
 
 [linkedin]: https://www.linkedin.com/in/ravi-krishnudu/
 [twitter]: https://twitter.com/Ravikrishnudu
