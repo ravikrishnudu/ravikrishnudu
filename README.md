@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Ravi! I'm a developer, geek, enthusiast, who loves to solve problems and fix things with technology.I am working on frontend web development with Javascript.
+## I'm Ravi! I'm a developer, geek, enthusiast, who loves to solve problems and fix things with technology.
 
 <br />
 
