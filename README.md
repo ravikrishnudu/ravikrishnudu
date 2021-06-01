@@ -17,7 +17,8 @@
 
 ---
 
-  <img align="left" alt="ravi GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ravikrishnudu&show_icons=true&hide_border=true" />
+<!--
+  <img align="left" alt="ravi GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ravikrishnudu&show_icons=true&hide_border=true" /> -->
 
 [linkedin]: https://www.linkedin.com/in/ravi-krishnudu/
 [twitter]: https://twitter.com/Ravikrishnudu
