@@ -8,7 +8,7 @@
 
 <br />
 
-- Front-end development : **ReactJs, Javascript,HTML, CSS**
+- Front-end development : **ReactJs, Javascript, HTML, CSS**
 
 - Backend development : **Node.js, Express.js**
 
