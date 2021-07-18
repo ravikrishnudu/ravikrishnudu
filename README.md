@@ -8,9 +8,9 @@
 
 <br />
 
-- Front-end development using **HTML, Javascript, CSS, JS,ReactJS**
+- Front-end development : **ReactJs, Javascript,HTML, CSS**
 
-- Backend development using **Node.js, Express.js**
+- Backend development : **Node.js, Express.js**
 
   <br />
 
