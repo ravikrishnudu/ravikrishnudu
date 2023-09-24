@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Ravi! I'm a developer, geek, enthusiast, who loves to solve problems and fix things with technology.
+## I'm Ravi! I'm a developer, geek, and enthusiast, who loves to solve problems and fix things with technology.
 
 <br />
 
@@ -8,9 +8,9 @@
 
 <br />
 
-- Front-end development : **ReactJs, Javascript, HTML, CSS**
+- Front-end development: **ReactJs, TypeScript, Javascript, HTML5, CSS**
 
-- Backend development : **Node.js, Express.js**
+- Backend development : **Node.js, Express.js PostgreSQL**
 
   <br />
 
